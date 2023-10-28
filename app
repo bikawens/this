@@ -1,5 +1,1 @@
-{
-  "app": "on",
-  "channel": "on",
-  "link": "https://hsis"
-}
+cKD2fmTizKQb7Z+6wod2aeaDEgQh8UEoovMpbwt1v+3DAjMcLQZ8qNmpNiPZgpjoKjQygLZ2655EBQaxYkvI43uWHT+42ykMRMkDZxDJ1AsmgUsi4BKdxoKKZa6pVHhIyl8f6zYrn+G0JCp+B+Yaow==
